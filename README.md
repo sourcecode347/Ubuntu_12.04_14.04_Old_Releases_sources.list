@@ -4,7 +4,8 @@ Ubuntu 12.04 14.04 Old Releases sources.list
 # Last Working Test : 01/09/22
 
 Working /etc/apt/sources.list for Ubuntu 12.04 & 14.04
-Test & Working on 01/09/22 in a old dev board(PCduino3 Nano)
+
+Tested & Working on 01/09/22 in a Old Dev Board(PCDuino3 Nano)
 
 # Installation on Ubuntu 14.04 Nand image for PCDuino3 Nano
 
