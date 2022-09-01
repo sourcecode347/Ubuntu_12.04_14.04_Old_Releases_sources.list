@@ -15,6 +15,7 @@ Test & Working on 01/09/22 in a old dev board(PCduino3 Nano)
     sudo apt-get install software-properties-common python-software-properties
     
 # How To Install Python3.6
+
     wget https://www.python.org/ftp/python/3.6.3/Python-3.6.3.tgz
     tar -xvf Python-3.6.3.tgz
     cd Python-3.6.3
