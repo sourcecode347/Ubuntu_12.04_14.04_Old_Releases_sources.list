@@ -1,0 +1,20 @@
+#___Author_:_Nikolaos_Bazigos_________________________________________________
+#_____________________________________________________________________________
+#__ Ubuntu 12.04-14.04 ____01_09_2022__ Working _____ /etc/apt/sources.list___
+#https://github.com/sourcecode347/Ubuntu_12.04_14.04_Old_Releases_sources.list
+#___Link_:_https://gist.github.com/frakman1/35dac1e27458b8d577f399dfa551e2ad__
+
+deb http://old-releases.ubuntu.com/ubuntu/ precise main restricted universe
+deb-src http://old-releases.ubuntu.com/ubuntu/ precise main restricted universe
+
+deb http://old-releases.ubuntu.com/ubuntu/ precise-updates main restricted multiverse universe
+deb-src http://old-releases.ubuntu.com/ubuntu/ precise-updates main restricted multiverse universe
+
+deb http://old-releases.ubuntu.com/ubuntu/ precise-security main restricted multiverse universe
+deb-src http://old-releases.ubuntu.com/ubuntu/ precise-security main universe restricted multiverse
+
+deb http://old-releases.ubuntu.com/ubuntu precise-backports main restricted universe multiverse
+deb-src http://old-releases.ubuntu.com/ubuntu precise-backports main restricted universe multiverse
+
+deb http://archive.canonical.com/ubuntu precise partner
+deb-src http://archive.canonical.com/ubuntu precise partner
